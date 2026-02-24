@@ -1,14 +1,39 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publications/
+title: "Publications"
+author_profile: true
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+## Journal Articles
+
+### 2026
+
+**Leveraging Hierarchy-Aware Diffusion Model and Knowledge-Enhanced Contrastive Learning for Recommendation**  
+K. Li, **Y. Zhang**, Q. He, X. Li  
+*Knowledge and Information Systems*, Vol. 68, No. 1, p. 34, 2026.  
+*Citations: 1*
+
+---
+
+**Prototype Learning based Hierarchical Decoupling for Multimodal Recommendation**  
+J. Liu, **Y. Zhang**, Q. He, R. Yang, X. Wang, W. Zhou  
+*Expert Systems with Applications*, Article 130763, 2026.  
+*Citations: 2*
+
+---
+
+**Bifurcated Adversarial Networks for Intersectional Fairness in Graph Neural Network Recommendations**  
+R. Yang, **Y. Zhang**, K. Li, Q. He, X. Li, W. Zhou  
+*Engineering Applications of Artificial Intelligence*, Vol. 167, Article 113839, 2026.
+
+---
+
+**Latent Diffusion Model for Social Recommendation**  
+Q. He, **Y. Zhang**, K. Li, X. Li, W. Zhou  
+*IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2026.
+
+---
+
+**Dual Intent-Aware Contrastive Learning on Heterogeneous Information Networks for Recommendation**  
+Y. Tang, **Y. Zhang**, Y. Zhang, X. Wang  
+*Expert Systems with Applications*, Article 131233.
