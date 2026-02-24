@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Xiaokang Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD student"
   location         : "Guangzhou"
   uri              : # URL
   email            : "cslixiaokang@mail.scut.edu.cn" 
@@ -56,7 +56,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
