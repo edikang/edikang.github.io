@@ -6,15 +6,21 @@ author_profile: true
 
 ## Journal Articles
 
-**Leveraging Hierarchy-Aware Diffusion Model and Knowledge-Enhanced Contrastive Learning for Recommendation**  
-K. Li, Y. Zhang, Q. He, **X. Li** 
-*Knowledge and Information Systems*, Vol. 68, No. 1, p. 34, 2026.  
+**Multi-aspect knowledge-enhanced hypergraph attention network for conversational recommendation systems**
+**X. Li** , Y Zhang, Y Huang, K Li, Y Zhang, X Wang
+Knowledge-Based Systems 299, 112119
 
 ---
 
-**Prototype Learning based Hierarchical Decoupling for Multimodal Recommendation**  
-J. Liu, Y. Zhang, Q. He, R. Yang, X. Wang, W. Zhou  
-*Expert Systems with Applications*, Article 130763, 2026.  
+**Latent Diffusion Model for Social Recommendation**  
+Q. He, Y. Zhang, K. Li, **X. Li**, W. Zhou  
+*IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2026.
+
+---
+
+**Leveraging Hierarchy-Aware Diffusion Model and Knowledge-Enhanced Contrastive Learning for Recommendation**  
+K. Li, Y. Zhang, Q. He, **X. Li** 
+*Knowledge and Information Systems*, Vol. 68, No. 1, p. 34, 2026.  
 
 ---
 
@@ -24,36 +30,40 @@ R. Yang, Y. Zhang, K. Li, Q. He, **X. Li** , W. Zhou
 
 ---
 
-**Latent Diffusion Model for Social Recommendation**  
-Q. He, Y. Zhang, K. Li, X. Li, W. Zhou  
-*IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2026.
+**Mask diffusion-based contrastive learning for knowledge-aware recommendation**
+K Li, Y Zhang, **X. Li** , M Yuan, W Zhou
+IEEE Transactions on Knowledge and Data Engineering
 
 ---
 
 **Smooth diffusion model for multimodal recommendation**  
-Q He, K Li, Y Zhang, X Li, W Zhou  
+Q He, K Li, Y Zhang, **X. Li**, W Zhou  
 *Knowledge-Based Systems*, 2025.
 
+---
+
 **Adversarial regularized diffusion model for fair recommendations**
-R Yang, Y Zhang, K Li, Q He, X Li, W Zhou
+R Yang, Y Zhang, K Li, Q He, **X. Li**, W Zhou
 Neural Networks 190, 107695
 
+---
+
 **Feature-decorrelation adaptive contrastive learning for knowledge-aware recommendation**
-T Cai, Y Zhang, K Li, X Li, X Wang
+T Cai, Y Zhang, K Li, **X. Li**, X Wang
 Neural Networks 190, 107646
 
-**Mask diffusion-based contrastive learning for knowledge-aware recommendation**
-K Li, Y Zhang, X Li, M Yuan, W Zhou
-IEEE Transactions on Knowledge and Data Engineering
+---
 
 **Multi-view self-supervised learning on heterogeneous graphs for recommendation**
-Y Zhang, Y Zhang, W Liao, X Li, X Wang
+Y Zhang, Y Zhang, W Liao,**X. Li**, X Wang
 Applied Soft Computing 174, 113056
+
+---
 
 **Multi-space interaction learning for disentangled knowledge-aware recommendation**
 K Li, Y Zhang, J Zhu, X Li, X Wang
 Expert Systems with Applications 254, 124458
 
-**Multi-aspect knowledge-enhanced hypergraph attention network for conversational recommendation systems**
-X Li, Y Zhang, Y Huang, K Li, Y Zhang, X Wang
-Knowledge-Based Systems 299, 112119
+---
+
+
