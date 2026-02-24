@@ -8,7 +8,8 @@ author_profile: true
 
 **Multi-aspect knowledge-enhanced hypergraph attention network for conversational recommendation systems**  
 **X. Li** , Y Zhang, Y Huang, K Li, Y Zhang, X Wang
-* Knowledge-Based Systems* , 2024.
+*Knowledge-Based Systems* , 2024.
+
 ---
 
 **Latent Diffusion Model for Social Recommendation**  
@@ -55,7 +56,8 @@ T Cai, Y Zhang, K Li, **X. Li**, X Wang
 
 **Multi-view self-supervised learning on heterogeneous graphs for recommendation**
 Y Zhang, Y Zhang, W Liao,**X. Li**, X Wang
-* Applied Soft Computing* , 2025.
+Applied Soft Computing* , 2025.
+
 ---
 
 **Multi-space interaction learning for disentangled knowledge-aware recommendation**
