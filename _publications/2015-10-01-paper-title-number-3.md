@@ -8,8 +8,7 @@ author_profile: true
 
 **Multi-aspect knowledge-enhanced hypergraph attention network for conversational recommendation systems**
 **X. Li** , Y Zhang, Y Huang, K Li, Y Zhang, X Wang
-Knowledge-Based Systems 299, 112119
-
+*Knowledge-Based Systems* , 2024.
 ---
 
 **Latent Diffusion Model for Social Recommendation**  
@@ -20,19 +19,19 @@ Q. He, Y. Zhang, K. Li, **X. Li**, W. Zhou
 
 **Leveraging Hierarchy-Aware Diffusion Model and Knowledge-Enhanced Contrastive Learning for Recommendation**  
 K. Li, Y. Zhang, Q. He, **X. Li** 
-*Knowledge and Information Systems*, Vol. 68, No. 1, p. 34, 2026.  
+*Knowledge and Information Systems*, 2026.  
 
 ---
 
 **Bifurcated Adversarial Networks for Intersectional Fairness in Graph Neural Network Recommendations**  
 R. Yang, Y. Zhang, K. Li, Q. He, **X. Li** , W. Zhou  
-*Engineering Applications of Artificial Intelligence*, Vol. 167, Article 113839, 2026.
+*Engineering Applications of Artificial Intelligence*, 2026.
 
 ---
 
 **Mask diffusion-based contrastive learning for knowledge-aware recommendation**
 K Li, Y Zhang, **X. Li** , M Yuan, W Zhou
-IEEE Transactions on Knowledge and Data Engineering
+*IEEE Transactions on Knowledge and Data Engineering*, 2025.
 
 ---
 
@@ -44,25 +43,24 @@ Q He, K Li, Y Zhang, **X. Li**, W Zhou
 
 **Adversarial regularized diffusion model for fair recommendations**
 R Yang, Y Zhang, K Li, Q He, **X. Li**, W Zhou
-Neural Networks 190, 107695
+*Neural Networks* , 2025.
 
 ---
 
 **Feature-decorrelation adaptive contrastive learning for knowledge-aware recommendation**
 T Cai, Y Zhang, K Li, **X. Li**, X Wang
-Neural Networks 190, 107646
+*Neural Networks* , 2025.
 
 ---
 
 **Multi-view self-supervised learning on heterogeneous graphs for recommendation**
 Y Zhang, Y Zhang, W Liao,**X. Li**, X Wang
-Applied Soft Computing 174, 113056
-
+*Applied Soft Computing* , 2025.
 ---
 
 **Multi-space interaction learning for disentangled knowledge-aware recommendation**
 K Li, Y Zhang, J Zhu, X Li, X Wang
-Expert Systems with Applications 254, 124458
+*Expert Systems with Applications* , 2025.
 
 ---
 
