@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Computer Science at SCUT, working at the intersection of natural language processing and machine learning. My research focuses on three interconnected areas: sentiment analysis, multimodal learning, and recommender systems.
+I am a PhD candidate in Computer Science at South China University of Technology, working at the intersection of natural language processing and machine learning. My research focuses on sentiment analysis, multimodal learning, and recommender systems.
